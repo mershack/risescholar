@@ -3,3 +3,5 @@
 /nbproject/
 /src/
 build.xml
+/web/META-INF/
+/web/WEB-INF/
